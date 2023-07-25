@@ -1,1 +1,1 @@
-# Coursera
+This repository serves as a platform for me to hone my data science skills and showcase my progress in the field. Here, I'll be sharing the exciting projects, analyses, and experiments I've been working on, all centered around the fascinating world of data science.
